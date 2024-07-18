@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     int arr[100];
 int i,j,n,count=0;
@@ -22,5 +22,4 @@ for(i=0;i<n;i++)
     }
 }
 printf("the duplicate elements are=%d",count);
-return 0;
 }
