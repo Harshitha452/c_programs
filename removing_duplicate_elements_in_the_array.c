@@ -1,5 +1,5 @@
 #include<stdio.h>  
-void main ()  
+void main()  
 {  
     int arr[20], i, j, k, size;  
     printf("Enter the size of an array:");  
